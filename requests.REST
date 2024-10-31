@@ -1,0 +1,38 @@
+POST http://localhost:3000/posts
+Content-Type: application/json
+
+{
+  "title": "My First Blog Post",
+  "content": "This is the content of my first blog post.",
+  "category": "Technology",
+  "tags": ["Tech", "Chatting"]
+}
+
+###
+
+PUT http://localhost:3000/posts/1
+Content-Type: application/json
+
+{
+  "title": "My Updated Blog Post",
+  "content": "This is the updated content of my first blog post.",
+  "category": "Technology",
+  "tags": ["Tech", "Programming"]
+}
+
+###
+
+DELETE http://localhost:3000/posts/1
+
+###
+
+GET http://localhost:3000/posts/1
+
+###
+
+GET http://localhost:3000/posts
+
+
+###
+
+GET http://localhost:3000/posts?term=programming

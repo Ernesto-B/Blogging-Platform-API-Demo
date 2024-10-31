@@ -1,0 +1,55 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "My First Blog Post",
+            "content": "This is the content of my first blog post.",
+            "category": "Technology",
+            "tags": [
+                "Tech",
+                "Programming"
+            ],
+            "createdAt": "2024-10-31T22:01:18.423Z",
+            "updatedAt": "2024-10-31T22:01:18.423Z"
+        },
+        {
+            "id": 2,
+            "title": "The SECOND Post",
+            "content": "Lorem ipsum...",
+            "category": "Casual",
+            "tags": [
+                "Tech",
+                "Chatting"
+            ],
+            "createdAt": "2024-10-31T22:30:43.270Z",
+            "updatedAt": "2024-10-31T22:30:43.270Z"
+        },
+        {
+            "id": 3,
+            "title": "Exploring New Tech Trends",
+            "content": "This post discusses the latest technology trends, including AI and blockchain.",
+            "category": "Technology",
+            "tags": [
+                "Innovation",
+                "Trends",
+                "AI"
+            ],
+            "createdAt": "2024-11-01T10:15:30.000Z",
+            "updatedAt": "2024-11-01T10:15:30.000Z"
+        },
+        {
+            "id": 4,
+            "title": "The Art of Mindful Living",
+            "content": "Learn how to practice mindfulness and live a balanced life in a fast-paced world.",
+            "category": "Lifestyle",
+            "tags": [
+                "Wellness",
+                "Mindfulness",
+                "Self-care"
+            ],
+            "createdAt": "2024-11-01T14:45:12.000Z",
+            "updatedAt": "2024-11-01T14:45:12.000Z"
+        }
+    ],
+    "nextId": 5
+}
