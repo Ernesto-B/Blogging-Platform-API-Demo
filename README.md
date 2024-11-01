@@ -1,5 +1,7 @@
 # Blogging-Platform-API-Demo
 
+The purpose of this project is to show a simple API and simple/frequently used queries and interactions with JSON objects.
+
 A simple RESTful API for managing blog posts. The API allows users to create, update, delete, and retrieve blog posts, and also provides functionality to filter posts using search terms. This project uses Node.js and Express, with data stored in a JSON file.
 
 ## Prerequisites
